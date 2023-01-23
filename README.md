@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Habits é um app para auxiliar nos hábitos diários.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://jpeberhardt.github.io/NLW-Setup)
 
 ## 🔖 Layout
 
